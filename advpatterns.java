@@ -1,3 +1,4 @@
+// Reverse triangle with numbers
 import java.util.*;
 public class pattern {
     public static void main(String args[]){
@@ -21,7 +22,7 @@ public class pattern {
     
 }
 
-Floyds triangle:
+// Floyds triangle:
 public class pattern {
     public static void main(String args[]){
         int i, j, k = 1;
@@ -43,6 +44,14 @@ public class pattern {
     
 }
 
+
+// 01 half-pyramid
+//say n=5
+// 1
+// 0 1
+// 1 0 1
+// 0 1 0 1
+// 1 0 1 0 1
 public class pattern {
     public static void main(String args[]){
         int i, j;
@@ -65,6 +74,7 @@ public class pattern {
     
 }
 
+// Butterfly pattern
 public class pattern {
     public static void main(String args[]){
         int i, j;
@@ -109,6 +119,7 @@ public class pattern {
     
 }
 
+// Solid parallelogram
 public class pattern {
     public static void main(String args[]){
         int i, j;
@@ -135,6 +146,7 @@ public class pattern {
     
 }
 
+// Hollow parallelogram 
 public class pattern {
     public static void main(String args[]){
         int i, j, r = 5, c = 5;
@@ -167,6 +179,7 @@ public class pattern {
     
 }
 
+// Solid rhombus or diamond
 class pattern {
     public static void main(String args[]){
         int i, j;
